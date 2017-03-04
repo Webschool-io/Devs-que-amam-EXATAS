@@ -11,9 +11,15 @@ Para desenvolvedores e amantes desta matéria sensacional que é a exatas, englo
 
 **Formato**
 * Encontros de 15 em 15 dias
+* Cada matéria, 1 mês.
 * Duração até o último homem ficar na conversa
 * Horário à partir das 20h
 * Quartas-feiras
+* Março - Física
+* Abril - Math
+* Maio - P2P
+* Junho - Biologia
+* Julho - Informática
 
 ## Próximos Encontros:
 
@@ -29,4 +35,3 @@ Disponibilizar o debate neste repositório
 ## Links úteis
 
 ##Bibliografia Sugerida:
-
