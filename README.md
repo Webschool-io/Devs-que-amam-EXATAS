@@ -24,9 +24,9 @@ Disponibilizar o debate neste repositório
 
 ## Ideias para estudo:
 
-*Indução Eletromagnética
+* Indução Eletromagnética
 
 ## Links úteis
 
-##Bibliografia Sugerida:
+## Bibliografia Sugerida:
 
